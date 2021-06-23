@@ -1,0 +1,16 @@
+.inputOne {
+  background: none;
+  outline: none;
+  border: none;
+  width: 100%;
+  padding: 0.4em 0.8em;
+}
+
+.blue {
+  border: 1px solid #ccc;
+  &:focus-within {
+    border-color: #00bfd6;
+    // box-shadow: 0 0 0 2px #a0e4c1;
+    // background: white !important;
+  }
+}

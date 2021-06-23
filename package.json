@@ -1,0 +1,48 @@
+{
+  "name": "name",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@react-firebase/firestore": "^0.5.5",
+    "antd": "^4.16.1",
+    "aos": "^2.3.4",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
+    "firebase": "^8.6.8",
+    "formik": "^2.2.9",
+    "node-sass": "^4.14.1",
+    "nprogress": "^0.2.0",
+    "query-string": "^7.0.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-google-button": "^0.7.2",
+    "react-helmet": "^6.1.0",
+    "react-redux": "^7.2.3",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.3",
+    "redux": "^4.0.5",
+    "uuid": "^8.3.2",
+    "yup": "^0.32.9"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
